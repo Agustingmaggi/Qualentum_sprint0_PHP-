@@ -1,0 +1,1 @@
+hay que levantar una imagen en docker con el comando docker-compuse up parandote sobre la carpeta base_labs y despues abrirlo en el nvegador en el puerto 8080
